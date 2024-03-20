@@ -4,6 +4,7 @@ import Burger from './menu.svg.png'
 import BurgerClose from './close-menu.png'
 import Logo from '../../assets/img/logo.jpg'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+//import { Link, Route, Routes } from 'react-router-dom'
 import Main from '../pages/Main'
 import Second from '../pages/Second'
 
