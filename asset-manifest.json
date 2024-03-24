@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/thebigbang/static/css/main.8388eee2.css",
-    "main.js": "/thebigbang/static/js/main.8a70aaab.js",
+    "main.css": "/thebigbang/static/css/main.b8b30936.css",
+    "main.js": "/thebigbang/static/js/main.51228b09.js",
+    "static/media/first.jpg": "/thebigbang/static/media/first.a584dd74623537146083.jpg",
+    "static/media/last.jpg": "/thebigbang/static/media/last.8becf9e24d9f1a725de6.jpg",
+    "static/media/fourth.jpg": "/thebigbang/static/media/fourth.81b0bac58ee6c0ffa554.jpg",
+    "static/media/third.jpg": "/thebigbang/static/media/third.9481b5192aefc8818d62.jpg",
+    "static/media/fivth.jpg": "/thebigbang/static/media/fivth.a02105b063a81f2ff82e.jpg",
+    "static/media/second.jpg": "/thebigbang/static/media/second.38f7eae73d1f27d031bc.jpg",
     "static/media/logo.jpg": "/thebigbang/static/media/logo.4a29d1efce1a652dcf73.jpg",
     "index.html": "/thebigbang/index.html",
-    "main.8388eee2.css.map": "/thebigbang/static/css/main.8388eee2.css.map",
-    "main.8a70aaab.js.map": "/thebigbang/static/js/main.8a70aaab.js.map"
+    "main.b8b30936.css.map": "/thebigbang/static/css/main.b8b30936.css.map",
+    "main.51228b09.js.map": "/thebigbang/static/js/main.51228b09.js.map"
   },
   "entrypoints": [
-    "static/css/main.8388eee2.css",
-    "static/js/main.8a70aaab.js"
+    "static/css/main.b8b30936.css",
+    "static/js/main.51228b09.js"
   ]
 }
