@@ -1,20 +1,36 @@
 {
   "files": {
-    "main.css": "/thebigbang/static/css/main.b8b30936.css",
-    "main.js": "/thebigbang/static/js/main.51228b09.js",
+    "main.css": "/thebigbang/static/css/main.0f007666.css",
+    "main.js": "/thebigbang/static/js/main.67d19ade.js",
+    "static/media/Allheroes.jpg": "/thebigbang/static/media/Allheroes.92f5f75e388a2a850312.jpg",
     "static/media/first.jpg": "/thebigbang/static/media/first.a584dd74623537146083.jpg",
     "static/media/last.jpg": "/thebigbang/static/media/last.8becf9e24d9f1a725de6.jpg",
     "static/media/fourth.jpg": "/thebigbang/static/media/fourth.81b0bac58ee6c0ffa554.jpg",
+    "static/media/tbbt.jpg": "/thebigbang/static/media/tbbt.607584d54f39507a9206.jpg",
+    "static/media/Hovardberny.jpg": "/thebigbang/static/media/Hovardberny.be223cf76a64af3537df.jpg",
     "static/media/third.jpg": "/thebigbang/static/media/third.9481b5192aefc8818d62.jpg",
+    "static/media/Sheldonemy.jpg": "/thebigbang/static/media/Sheldonemy.3c2fd4e1baffa7ec8aeb.jpg",
+    "static/media/Pennyleo.jpg": "/thebigbang/static/media/Pennyleo.21a7b3e7ee03d1b4acf0.jpg",
+    "static/media/Penny.jpg": "/thebigbang/static/media/Penny.21ba5a28ef31b53008dd.jpg",
+    "static/media/Emysheldon.jpg": "/thebigbang/static/media/Emysheldon.f7f9af704cc0cba298d8.jpg",
+    "static/media/Bernyhovard.jpg": "/thebigbang/static/media/Bernyhovard.7ba714a014ce0f8f8304.jpg",
+    "static/media/Emy.jpg": "/thebigbang/static/media/Emy.b61789eb4aa27ec32df0.jpg",
+    "static/media/Radgeshtwo.jpg": "/thebigbang/static/media/Radgeshtwo.9e91613bf3d84b58a146.jpg",
+    "static/media/leo.jpg": "/thebigbang/static/media/leo.6cc72b9469c6903e00da.jpg",
     "static/media/fivth.jpg": "/thebigbang/static/media/fivth.a02105b063a81f2ff82e.jpg",
+    "static/media/berny.jpg": "/thebigbang/static/media/berny.ae802300fd81a7629f0a.jpg",
+    "static/media/Leopeny.jpg": "/thebigbang/static/media/Leopeny.3862873085b1636ba672.jpg",
     "static/media/second.jpg": "/thebigbang/static/media/second.38f7eae73d1f27d031bc.jpg",
+    "static/media/Radgesh.jpg": "/thebigbang/static/media/Radgesh.78e7350fcfd3b4635d2b.jpg",
+    "static/media/Sheldon.jpg": "/thebigbang/static/media/Sheldon.c504a7febb9a9e90145a.jpg",
+    "static/media/Hovard.jpg": "/thebigbang/static/media/Hovard.b90100aedde3e3caf574.jpg",
     "static/media/logo.jpg": "/thebigbang/static/media/logo.4a29d1efce1a652dcf73.jpg",
     "index.html": "/thebigbang/index.html",
-    "main.b8b30936.css.map": "/thebigbang/static/css/main.b8b30936.css.map",
-    "main.51228b09.js.map": "/thebigbang/static/js/main.51228b09.js.map"
+    "main.0f007666.css.map": "/thebigbang/static/css/main.0f007666.css.map",
+    "main.67d19ade.js.map": "/thebigbang/static/js/main.67d19ade.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8b30936.css",
-    "static/js/main.51228b09.js"
+    "static/css/main.0f007666.css",
+    "static/js/main.67d19ade.js"
   ]
 }
